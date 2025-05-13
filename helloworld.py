@@ -1,4 +1,4 @@
-#Python_Script
+#Python Script
 print('*' * 10)
 print("Hello world!")
 print('*' * 10)
